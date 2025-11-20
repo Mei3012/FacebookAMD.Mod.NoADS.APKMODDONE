@@ -1,3 +1,9 @@
+<p align="left">
+🌐 <b>Language:</b>
+🇬🇧 <a href="README-EN.md">English</a> |
+🇻🇳 <a href="README.md">Tiếng Việt</a>
+</p>
+
 # 📱 FacebookAMD Ad-Free Mod by APKMODDONE.COM
 
 **FacebookAMD** is an extended mod version of the official **Facebook (Android)** app, developed by **APKMODDONE.COM**.  
