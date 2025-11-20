@@ -1,3 +1,9 @@
+<p align="left">
+🌐 <b>Ngôn ngữ:</b>
+🇻🇳 <a href="README.md">Tiếng Việt</a> |
+🇬🇧 <a href="README-EN.md">English</a>
+</p>
+
 # 📱 FacebookAMD Mod không quảng cáo by APKMODDONE.COM
 
 **FacebookAMD** là bản mod mở rộng cho ứng dụng **Facebook (Android)**, được phát triển bởi **APKMODDONE.COM**.  
